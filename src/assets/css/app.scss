@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+html,body,.app{
+    width: 100%;
+    height: 100%;
+}
+.el-select-dropdown .el-popper{
+    z-index: 9999;
+}
+.house{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    .main{
+        flex: 1;
+        overflow: hidden;
+        display: flex;
+        .content{
+            flex: 1;
+            background: #fff;
+            padding:0 24px 24px 24px;
+            overflow-x: hidden;
+            overflow-y: auto;
+            &.active{
+                background: rgb(240,242,245);
+            }
+            .caption{
+                padding: 20px 0;
+                background: rgb(240,242,245);
+                font-weight: normal;
+                &.active{
+                    margin: 10px; 
+                }
+            }
+        }
+    }
+}

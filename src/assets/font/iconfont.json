@@ -1,0 +1,65 @@
+{
+  "id": "1732692",
+  "name": "examSystem",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1350126",
+      "name": "数据",
+      "font_class": "digital",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "8135226",
+      "name": "微电子",
+      "font_class": "zu",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "9653736",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "11810478",
+      "name": "日历",
+      "font_class": "rili",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "12331697",
+      "name": "数据",
+      "font_class": "shuju",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "12987916",
+      "name": "多选选中",
+      "font_class": "duoxuanxuanzhong",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "9712642",
+      "name": "向下箭头",
+      "font_class": "xiangxiajiantou",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "9712647",
+      "name": "向上箭头",
+      "font_class": "xiangshangjiantou",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    }
+  ]
+}
